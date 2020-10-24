@@ -1,0 +1,5 @@
+PyJWT
+opencv-python
+opencv-contrib-python
+pyzbar
+numpy
